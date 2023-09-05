@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guess the  anime place</string>
+
+
+
+    <string name="attackontitan">هجوم العمالقة</string>
+    <string name="naruto">ناروتو</string>
+    <string name="onepiece">ون بيس</string>
+    <string name="deathnote">ديث نوت</string>
+    <string name="dragonball">دراغون بول </string>
+    <string name="bleach">بليتش</string>
+    <string name="fullmetalalchemisbrotherhood">الجندي المعدني: الأخوة</string>
+    <string name="onepunchman">ون بنش مان</string>
+    <string name="myheroacademia">بطلي الأكاديميتي</string>
+    <string name="hunterxhunter">هنتر × هنتر</string>
+
+    <string name="demonslayer">قاتل الشياطين</string>
+    <string name="tokyoghoul">طوكيو غول</string>
+    <string name="baclkclover">بلاك كلوفر </string>
+    <!-- قم بإضافة أسماء الأنمي الإضافية هنا -->
+    <string name="bluelock">بلو لوك</string>
+
+
+
+
+
+
+    <string name="about_screen">من انا </string>
+
+    <string name="connct_us_tv">يرجى إرسال ملاحظاتك أو وصف أي مشكلة تواجهك</string>
+    <string name="connct_us_hint">اكتب ملاحظاتك هنا</string>
+    <string name="connct_us_sent">إرسال</string>
+    <string name="connect_us">اتصل بنا</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="social_media">التواصل الاجتماعي</string>
+
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="next">التالي</string>
+    <string name="who_am_i">من انا</string>
+
+    <string name="settings">الاعدادات</string>
+    <string name="settings_languages">اللغات</string>
+
+    <string name="about_dis">مرحباً أنا محمد، مطور تطبيقات متخصص في مجال تطوير البرمجيات وتصميم تطبيقات الهاتف المحمول. أتمتع بخبرة واسعة في بناء تطبيقات مبتكرة وقوية لمنصات Android و iOS.  بدأت رحلتي في عالم التطوير منذ عدة سنوات، ومنذ ذلك الحين، اكتسبت مهارات قوية في لغات البرمجة مثل Java و Kotlin لتطوير تطبيقات Android وSwift لتطبيقات iOS. كما أمتلك خبرة في استخدام أطر العمل (frameworks) المختلفة مثل React Native و Flutter لتطوير تطبيقات متعددة المنصات. أعتبر التصميم الجميل والواجهة الاستخدام السهلة من أهم الجوانب التي أوليها اهتمامًا في تطوير التطبيقات. أسعى دائمًا لإنشاء تجارب مستخدم استثنائية وتطبيقات فعالة وملهمة. أؤمن بقوة التكنولوجيا في تغيير العالم وتحسين حياة الناس. أتطلع دائمًا للتعلم واكتشاف أحدث التقنيات والابتكارات في عالم تطوير التطبيقات. إنها رحلة مستمرة للنمو المهني والتطور. إذا كان لديك أي فكرة لتطبيق أو مشروع تطوير، فأنا مستعد للعمل معك لتحويلها إلى واقع واجهة مبتكرة وقوية. أنا متحمس لتكون جزءًا من مشاريع تطوير تطبيقات رائعة وتحقيق النجاح والتأثير الإيجابي في عالم التكنولوجيا.</string>
+    <string name="connet_us_tost">الرجاء ادخال الرسالة</string>
+
+    <string name="quiz_results_tv">انتهى الاختبار. هذه هي النتيجة</string>
+    <string name="quiz_results_correct">الإجابات الصحيحة</string>
+    <string name="quiz_results_wrong">الإجابات الخاطئة</string>
+    <string name="quiz_results_btn">ابدأ اختبارًا جديدًا</string>
+    <string name="tost_choose">يرجي اختيار واحد من الخيارات</string>
+    <string name="btn_setting">رجوع</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="re_playe">هل تريد بدء لعبة جديدة؟
+سيتم إعادة اللعبة من البداية!! </string>
+
+    <string name="quiz_over">انتهت الاسئلة انتظرونا فى تحديث اخر واضافة شخصيات جديدة</string>
+
+    <string name="confirm">تأكيد</string>
+    <string name="play">العب</string>
+    <string name="lang_select">الرجاء اختيار اللغة المطلوبة</string>
+
+    <string name="cancel">الغاء</string>
+
+    <string name="contact_dev">تواصل مع المطور</string>
+
+    <string name="check_update">التحقق من وجود تحديث</string>
+    <string name="update_tost">لايوجد تحديث</string>
+    <string name="invite">تعال والعب لعبة خمن شخصية الانمي من خلال عينه </string>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".SettingsActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="@color/statusBar"
+        android:layout_width="match_parent"
+        android:layout_height="56dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairobold"
+            android:textSize="18sp"
+            android:background="@color/statusBar"
+            android:textColor="@color/white"
+
+            android:layout_gravity="center"
+            android:text="@string/settings"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/setting_back"
+            android:src="@drawable/arrow"
+            android:rotation="180"
+            android:background="@color/statusBar"
+
+            app:maxImageSize="10dp"
+
+            android:layout_marginStart="10dp" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cairobold"
+        android:layout_marginStart="10dp"
+        android:text="@string/settings_languages" />
+
+    <Button
+
+        android:id="@+id/setting_tv_lang"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:fontFamily="@font/cairobold"
+        android:background="@color/green"
+        android:gravity="start"
+        android:textAllCaps="false"
+        android:paddingStart="10dp"
+        android:text="@string/settings_languages"
+        android:textSize="24sp"
+        android:drawableEnd="@drawable/arrow"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/cairobold"
+
+        android:layout_marginTop="10dp"
+        android:text="@string/about_screen" />
+
+    <Button
+
+        android:id="@+id/btn_about"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:drawableEnd="@drawable/arrow"
+        android:fontFamily="@font/cairobold"
+        android:background="@color/green"
+
+
+        android:gravity="start"
+        android:paddingStart="10dp"
+        android:text="@string/about_screen"
+        android:textAllCaps="false"
+        android:textSize="24sp" />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/cairobold"
+
+        android:text="@string/connect_us" />
+
+    <Button
+
+        android:id="@+id/btn_connect_us"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:drawableEnd="@drawable/arrow"
+        android:fontFamily="@font/cairobold"
+        android:background="@color/green"
+
+
+        android:gravity="start"
+        android:paddingStart="10dp"
+        android:text="@string/connect_us"
+        android:textAllCaps="false"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cairobold"
+
+        android:layout_marginStart="10dp"
+        android:text="@string/social_media" />
+
+    <Button
+        android:id="@+id/btn_share_app"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:drawableEnd="@drawable/ic_share"
+        android:fontFamily="@font/cairobold"
+        android:gravity="start"
+        android:paddingStart="10dp"
+        android:text="@string/share_app"
+        android:background="@color/green"
+
+        android:textAllCaps="false"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_rate_app"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:drawableEnd="@drawable/ic_star"
+        android:fontFamily="@font/cairobold"
+        android:gravity="start"
+        android:layout_marginTop="10dp"
+        android:paddingStart="10dp"
+        android:text="@string/rate_app"
+        android:textAllCaps="false"
+        android:background="@color/green"
+
+        android:textSize="24sp" />
+
+
+
+
+
+    <!--    <Button-->
+    <!--        android:id="@+id/btn_user_add_questions"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="70dp"-->
+    <!--        android:drawableEnd="@drawable/pin"-->
+    <!--        android:fontFamily="@font/cairo"-->
+    <!--        android:gravity="start"-->
+    <!--        android:paddingStart="10dp"-->
+    <!--        android:text="@string/users_questions"-->
+    <!--        android:textAllCaps="false"-->
+    <!--        android:textSize="24sp" />-->
+
+
+</LinearLayout>

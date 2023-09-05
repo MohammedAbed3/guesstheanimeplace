@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomProgressBarStyle">
+        <!-- يشير إلى ملف البروجريس بار المخصص -->
+        <item name="android:progressDrawable">@drawable/custom_progressbar</item>
+        <!-- يمكنك تخصيص المزيد من الخصائص هنا حسب احتياجاتك -->
+    </style>
+</resources>
